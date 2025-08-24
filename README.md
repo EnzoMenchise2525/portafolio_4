@@ -10,4 +10,4 @@
 
 ### Demo Screenshots
 
-![Portfolio Desktop Demo](images/index_maschmello.png "Desktop Demo")
+![Portfolio Desktop Demo](assets/images/index_maschmello.png "Desktop Demo")
